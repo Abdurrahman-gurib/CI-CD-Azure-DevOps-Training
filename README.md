@@ -53,3 +53,9 @@
 16. Optionally, define variables as needed.
 17. Enable the development badge for tracking.
 18. Save the release configuration and create a new release.
+
+    ## Live Deployment Project
+     [ASP .NET WEB APP]([https://www.linkedin.com/in/abdurrahman-n-863ab7238/](https://tgapp6.azurewebsites.net/)https://tgapp6.azurewebsites.net/)
+    -- https://tgapp6.azurewebsites.net/
+    --Successfully built Pipeline
+    --Deploying Successfully First Web App using ASP .NET on Azure Platform
