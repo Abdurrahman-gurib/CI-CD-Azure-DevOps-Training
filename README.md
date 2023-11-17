@@ -55,7 +55,14 @@
 18. Save the release configuration and create a new release.
 
     ## Live Deployment Project
-     [ASP .NET WEB APP]([https://www.linkedin.com/in/abdurrahman-n-863ab7238/](https://tgapp6.azurewebsites.net/)https://tgapp6.azurewebsites.net/)
-    -- https://tgapp6.azurewebsites.net/
-    --Successfully built Pipeline
-    --Deploying Successfully First Web App using ASP .NET on Azure Platform
+     WEBSITE([ASP .NET WEB APP](https://tgapp6.azurewebsites.net/)https://tgapp6.azurewebsites.net/)
+    - https://tgapp6.azurewebsites.net/
+    - Successfully built Pipeline
+    - Deploying Successfully First Web App using ASP .NET on Azure Platform
+   
+    -  ## Live localhost (https://localhost:7139/) Screenshot
+   
+    -  ![Screenshot 2023-11-17 103208](https://github.com/Abdurrahman-gurib/CI-CD-Azure-DevOps-Training/assets/63855517/38d8f416-1ca0-4a96-8180-98faffcd2509)
+
+![Screenshot 2023-11-17 103534](https://github.com/Abdurrahman-gurib/CI-CD-Azure-DevOps-Training/assets/63855517/302a9ef4-9999-4fff-b29b-c14f370401d8)
+
