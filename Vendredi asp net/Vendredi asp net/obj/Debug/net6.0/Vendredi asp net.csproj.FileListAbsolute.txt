@@ -1,0 +1,30 @@
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\bin\Debug\net6.0\appsettings.json
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\bin\Debug\net6.0\Vendredi asp net.staticwebassets.runtime.json
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\bin\Debug\net6.0\Vendredi asp net.exe
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\bin\Debug\net6.0\Vendredi asp net.deps.json
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\bin\Debug\net6.0\Vendredi asp net.runtimeconfig.json
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\bin\Debug\net6.0\Vendredi asp net.dll
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\bin\Debug\net6.0\Vendredi asp net.pdb
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\Vendredi asp net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\Vendredi asp net.AssemblyInfoInputs.cache
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\Vendredi asp net.AssemblyInfo.cs
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\Vendredi asp net.csproj.CoreCompileInputs.cache
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\Vendredi asp net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\Vendredi asp net.RazorAssemblyInfo.cache
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\Vendredi asp net.RazorAssemblyInfo.cs
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\staticwebassets\msbuild.Vendredi asp net.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\staticwebassets\msbuild.build.Vendredi asp net.props
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Vendredi asp net.props
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Vendredi asp net.props
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\scopedcss\bundle\Vendredi asp net.styles.css
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\scopedcss\projectbundle\Vendredi asp net.bundle.scp.css
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\Vendredi asp net.dll
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\refint\Vendredi asp net.dll
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\Vendredi asp net.pdb
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\Vendredi asp net.genruntimeconfig.cache
+C:\Users\SD233484\OneDrive - SD Worx\Desktop\firstasp\Vendredi asp net\Vendredi asp net\obj\Debug\net6.0\ref\Vendredi asp net.dll

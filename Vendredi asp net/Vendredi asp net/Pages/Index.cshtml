@@ -1,0 +1,221 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdurrahman Gurib - Full-Stack Developer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 2rem 0;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem;
+            background-color: #fff;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        h2 {
+            color: #333;
+            font-size: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        .highlight {
+            color: #007BFF;
+        }
+
+        .button {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+            .button:hover {
+                background-color: #0056b3;
+            }
+
+        .button-container {
+            text-align: center;
+        }
+
+        /* Chatbot Styling */
+        .chatbot-icon {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #007BFF;
+            color: #fff;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+        }
+
+        .chatbot-expand {
+            display: none;
+            position: fixed;
+            bottom: 90px;
+            right: 20px;
+            background-color: #fff;
+            color: #333;
+            width: 300px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+        }
+
+        .chatbot-header {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 5px;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            text-align: center;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .chatbot-content {
+            padding: 10px;
+            max-height: 300px;
+            overflow-y: scroll;
+        }
+
+        .chatbot-expand-button {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            cursor: pointer;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+        }
+
+        .close-button {
+            font-size: 20px;
+            cursor: pointer;
+            padding: 5px;
+            color: #fff;
+        }
+
+            .close-button:hover {
+                background-color: #0056b3;
+            }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Abdurrahman Gurib</h1>
+        <p>Full-Stack Developer</p>
+        <p>SD Worx</p>
+    </header>
+
+    <div class="container">
+        <h2>About Me</h2>
+        <p>
+            I'm a passionate and skilled full-stack developer with expertise in both front-end and back-end technologies. I enjoy creating robust web applications that not only look great but also perform exceptionally well. My journey in the world of coding has been an exciting adventure.
+        </p>
+
+        <h2>Skills</h2>
+        <p>
+            My technical skills include proficiency in ASP .NET, C#, Angular JS, and PostgreSQL databases. I'm constantly learning and adapting to new technologies to stay at the forefront of web development.
+        </p>
+
+        <h2>Contact Me</h2>
+        <p>
+            Interested in collaborating on a project or just want to chat about the latest tech trends? Feel free to reach out to me. Let's create something amazing together!
+        </p>
+        <div class="button-container">
+            <a class="button" href="mailto:noorgurib@gmail.com">Contact Me</a>
+            <a class="button" href="tel:+23059086131">Call</a>
+        </div>
+    </div>
+
+    <!-- Chatbot -->
+    <div class="chatbot-icon" id="chatbot-icon">
+        <div class="chatbot-expand-button" id="chatbot-expand-button">Chatbot</div>
+    </div>
+
+    <div class="chatbot-expand" id="chatbot-expand">
+        <div class="chatbot-header">
+            Chatbot
+            <span class="close-button" id="chatbot-close-button">X</span>
+        </div>
+        <div class="chatbot-content">
+            <p>Welcome to the chatbot!</p>
+            <p>Chatbot: How can I assist you today?</p>
+            <p>User: Hi, I have a question about web development.</p>
+            <p>Chatbot: Of course! I'd be happy to help. What's your question?</p>
+            <p>User: Can you recommend a good JavaScript framework?</p>
+            <p>Chatbot: Sure, one popular JavaScript framework is React. It's great for building user interfaces. Is there anything else I can help with?</p>
+            <p>User: Thank you! That's what I needed to know.</p>
+            <p>Chatbot: You're welcome! If you have more questions in the future, feel free to ask. Have a great day!</p>
+        </div>
+    </div>
+
+    <script>
+        const chatbotIcon = document.getElementById('chatbot-icon');
+        const chatbotExpand = document.getElementById('chatbot-expand');
+        const chatbotExpandButton = document.getElementById('chatbot-expand-button');
+        const chatbotCloseButton = document.getElementById('chatbot-close-button');
+
+        chatbotIcon.addEventListener('click', () => {
+            chatbotExpand.style.display = 'block';
+        });
+
+        chatbotExpandButton.addEventListener('click', () => {
+            chatbotExpand.style.display = 'none';
+        });
+
+        chatbotCloseButton.addEventListener('click', () => {
+            chatbotExpand.style.display = 'none';
+        });
+
+        document.getElementById("chatbot-icon").addEventListener("click", function () {
+            document.getElementById("chatbot-expand").style.display = "block";
+        });
+
+        document.getElementById("chatbot-close-button").addEventListener("click", function () {
+            document.getElementById("chatbot-expand").style.display = "none";
+        });
+    </script>
+</body>
+</html>
+
