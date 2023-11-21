@@ -54,7 +54,7 @@
 17. Enable the development badge for tracking.
 18. Save the release configuration and create a new release.
 
-    ## Live Deployment Project
+    ## Live Deployment Website Project
      WEBSITE([ASP .NET WEB APP](https://tgapp6.azurewebsites.net/)https://tgapp6.azurewebsites.net/)
     - https://tgapp6.azurewebsites.net/
     - Successfully built Pipeline
